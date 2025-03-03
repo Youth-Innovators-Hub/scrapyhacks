@@ -15,19 +15,20 @@ Welcome to **ScrapyHacks**, a 12-hour hackathon organized by **Youth Innovators 
 
 ## Schedule
 
-- **Date:** [Add Event Date]
-- **Time:** 9:00 AM - 9:00 PM (12-hour event)
-- **Location:** [Event Venue / Online Platform]
-- **Agenda:**
-  - 9:00 AM - Registration & Breakfast
-  - 9:30 AM - Opening Remarks & Team Formation
-  - 10:00 AM - Hackathon Begins
-  - 12:00 PM - Lunch Break
-  - 1:00 PM - Continue Hacking
-  - 3:00 PM - Mentoring Sessions
-  - 5:00 PM - Continue Hacking
-  - 7:00 PM - Dinner & Networking
-  - 9:00 PM - Project Submission & Closing Remarks
+- **Date:** March, 15 2025
+- **Time:** 8:00 AM - 7:00 PM (12-hour event)
+- **Location:** ETSK MUsha
+### Agenda:
+- **8:00 AM - 8:30 AM**: Check-in & Registration
+- **8:30 AM - 9:00 AM**: Opening Ceremony & Keynote
+- **9:00 AM - 9:30 AM**: Team Formation & Idea Pitches
+- **9:30 AM - 12:30 PM**: Hacking Session #1
+- **12:30 PM - 1:30 PM**: Lunch Break
+- **1:30 PM - 4:30 PM**: Hacking Session #2
+- **4:30 PM - 5:00 PM**: Project Submission
+- **5:00 PM - 5:30 PM**: Demo & Presentations
+- **5:30 PM - 6:00 PM**: Judging & Awards Ceremony
+- **6:00 PM**: Closing & Networking
 
 ## FAQs
 
